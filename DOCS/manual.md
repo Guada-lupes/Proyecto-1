@@ -1,1 +1,1 @@
-Organizar las comidas para facilitar la creación de menús semanales
+Se realizarán listas con las opciones de platos según sean de carne, vegetales, cereales.
